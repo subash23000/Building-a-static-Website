@@ -75,5 +75,5 @@ a:active {
 }
 
 img {
-    min-width: fit-content;
+    width: 100%;
 }
