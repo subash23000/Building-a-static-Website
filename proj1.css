@@ -13,7 +13,13 @@ header {
     text-align: center;
     margin: 20px;
     padding: 20px;
-    border: 1px solid black;}
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 20px;
+}
+
 
 footer {
     padding: 10px 30px;
@@ -48,6 +54,9 @@ article img {
 a:hover {
     text-decoration: underline;
     background-color: yellow;
+    border: 1px solid black;
+    padding: 20px 10px;
+
 }
 
 
@@ -63,4 +72,8 @@ a:active {
     div {
         background-color: whitesmoke;
     }
+}
+
+img {
+    min-width: fit-content;
 }
